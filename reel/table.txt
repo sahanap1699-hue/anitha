@@ -1,0 +1,5 @@
+create table sahana(
+id int(10),
+name varchar(20),
+city varchar(10)
+);
